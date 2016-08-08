@@ -1,0 +1,38 @@
+_repo: Selections-from-the-Prose-Works-of-Matthew-Arnold_12628
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Arnold, Matthew
+    birthdate: 1822
+    deathdate: 1888
+    gutenberg_agent_id: '1401'
+    url: http://www.gutenberg.org/2009/agents/1401
+    wikipedia: http://en.wikipedia.org/wiki/Matthew_Arnold
+  editor:
+    agent_name: Johnson, William Savage
+    birthdate: 1877
+    deathdate: 1942
+    gutenberg_agent_id: '4535'
+    url: http://www.gutenberg.org/2009/agents/4535
+description: ''
+gutenberg_issued: '2004-06-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '12628'
+  lccn: '13019472'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'English essays -- 19th century'
+- !lcc 'PR'
+- GITenberg
+tableOfContents: 'Theories of Literature and Criticism: 1. Poetry and the Classics
+  (1853) 2. the Function of Criticism at the Present Time (1864) 3. the Study of Poetry
+  (1880) 4. Literature and Science (1882) --  Literary Criticism: 1. Heinrich Heine
+  (1863) 2. Marcus Aurelius (1863) 3. the Contribution of the Celts to English Literature
+  (1866) 4. George Sand (1877) 5. Wordsworth (1879) -- Social and Political Studies:
+  1. Sweetness and Light (1867) 2. Hebraism and Hellenism (1867) 3. Equality (1878).'
+title: Selections from the Prose Works of Matthew Arnold
+url: http://www.gutenberg.org/ebooks/12628
